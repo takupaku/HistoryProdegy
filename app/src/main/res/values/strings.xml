@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HistoryProdegy</string>
+
+    <string-array name="parent">
+        <item>albert einstein </item>
+        <item>charles babbage</item>
+        <item>Frédéric Chopin</item>
+        <item>Dmitri Mendeleev</item>
+        <item>John Dalton</item>
+
+    </string-array>
+
+    <string-array name="child">
+        <item>Physic prodigy</item>
+        <item>Theory of Relativity</item>
+        <item>March 14, 1879</item>
+        <item>Computer inventor</item>
+        <item>December 26, 1791</item>
+        <item>October 18, 1871 </item>
+        <item>Etode Composer</item>
+        <item>March 1, 1810</item>
+        <item>October 17, 1849</item>
+        <item>Formulated Periodic Law</item>
+        <item>February 8, 1834 </item>
+        <item>February 2, 1907</item>
+        <item>introduced atomic theory</item>
+        <item> September 6, 1766</item>
+        <item>July 27, 1844</item>
+
+    </string-array>
+</resources>
